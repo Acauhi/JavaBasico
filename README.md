@@ -1,6 +1,6 @@
 # Java Basico
 versão inicial.
 
-## Links Uteis:
+## Links Úteis:
 
 https://glysns.gitbook.io/java-basico
