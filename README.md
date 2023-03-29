@@ -1,5 +1,6 @@
 # Java Basico
-versão inicial.
+
+versão inicial (Estudo).
 
 ## Links Úteis:
 
