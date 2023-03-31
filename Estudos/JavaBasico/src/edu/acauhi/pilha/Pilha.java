@@ -15,7 +15,7 @@ public class Pilha {
     }
 
     public No pop() {
-        if (this.isEmpty()) {
+        if (!this.isEmpty()) {
             No noPoped = refNoEntradaPilha;
             refNoEntradaPilha = refNoEntradaPilha.getRefNo();
             return noPoped;
@@ -24,12 +24,10 @@ public class Pilha {
     }
 
     public No top() {
-
         return refNoEntradaPilha;
     }
 
     public boolean isEmpty() {
-
         return refNoEntradaPilha == null ? true : false;
     }
 
